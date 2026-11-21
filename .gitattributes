@@ -1,3 +1,4 @@
-IVIM-DKI.exe filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
 _internal filter=lfs diff=lfs merge=lfs -text
+IVIM-DKI.exe filter=lfs diff=lfs merge=lfs -text
 _internal/jaxlib/jax_common.dll filter=lfs diff=lfs merge=lfs -text
